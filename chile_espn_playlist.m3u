@@ -30,56 +30,56 @@ https://cdn-live.mundogo.cl/canal13/canal13.mpd
 #EXTVLCOPT:drmkey=ZSJ5Me6tTO/xrJCw3Z/fHg:IC8oeskPWz+lO9KK7jI2Lg
 https://cdn-live.mundogo.cl/13c/13c.mpd
 
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="ESPN",ESPN
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_norte-mediano.png" group-title="DEPORTES",ESPN
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=dPjqtGweQ/2Pe2TCGpb8Ww:kGcRhN2CVBqdF4bqoCXjRQ
 https://cdn-live.mundogo.cl/espn/espn.mpd
 
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" group-title="ESPN",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_2_norte-mediano.png" group-title="DEPORTES",ESPN 2
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=MBX9udpV3rVx2xQd2eaniA:SnkFDrcQVyu8PPp1cGwUEQ
 https://cdn-live.mundogo.cl/espn2/espn2.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" group-title="ESPN",ESPN 3
+#EXTINF:-1 tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_3_norte-mediano.png" group-title="DEPORTES",ESPN 3
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=E0piombH8SyZGHBHK9bKqg:f3sW+4VIU0WEkgDBeO5txA
 https://cdn-live.mundogo.cl/espn3/espn3.mpd
 
-#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="ESPN",ESPN 4
+#EXTINF:-1 tvg-id="ESPNEXTRA.mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_4-mediano.png" group-title="DEPORTES",ESPN 4
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=NdHEjsJOX3Yu7x+FPPylDw:bLa3/xlrXgCSmGUxbSABnw
 https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="ESPN",ESPN 5
+#EXTINF:-1 tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_5-mediano.png" group-title="DEPORTES",ESPN 5
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=1FazyuiKt/2HupBGknthRg:PMsKjc70Wkai/CTkv3vqjA
 https://cdn-live.mundogo.cl/espn4/espn4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="ESPN",ESPN PREMIUM
+#EXTINF:-1 tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="DEPORTES",ESPN PREMIUM
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=nPRRwbrQN2x1IklAaAKSSA:JaIdR3ppW2ioom6axLLLcw
 https://cdn-live.mundogo.cl/foxsportspremium/foxsportspremium.mpd
 
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="ESPN",ESPN PREMIUM 2
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_premium-mediano.png" group-title="DEPORTES",ESPN PREMIUM 2
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=x+rfVdrgv95hjjsGbhso6g:4TITG4AEWLyasGxvEZaE7A
 https://cdn-live.mundogo.cl/foxsports1/foxsports1.mpd
 
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="ESPN",ESPN 6
+#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_6-mediano.png" group-title="DEPORTES",ESPN 6
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=iUt6843Nu0TXgcXYfRj/1g:sfoJzqtdUF2kmlpN2yQkdA
 https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="ESPN",ESPN 7
+#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/espn_7-mediano.png" group-title="DEPORTES",ESPN 7
 #EXTVLCOPT:drm=clearkey
 #EXTVLCOPT:drmkey=JBjZmJSbJLznVY2TyjhYIA:P5fiZSZWWNKKk8lhQh9pdg
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/DSports.svg" group-title="DEPORTES",DEP - DSPORTS_HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/DSports.svg" group-title="DEPORTES",DEP - DSPORTS_HD
 http://38.226.210.46:8000/play/A008/index.m3u8
 
-#EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Teletrak_2018.svg/200px-Teletrak_2018.svg.png" group-title="DEPORTES",DEP - Teletrak (720p)
+#EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Teletrak_2018.svg/200px-Teletrak_2018.svg.png" group-title="DEPORTES",DEP - Teletrak (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TNT_Sports_Chile.svg" group-title="DEPORTES",DEP - TNT Sports Premium HD
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/TNT_Sports_Chile.svg" group-title="DEPORTES",DEP - TNT Sports Premium HD
 http://38.226.210.46:8000/play/a05m/index.m3u8
